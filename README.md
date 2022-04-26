@@ -24,4 +24,4 @@ Vary
 cb8496ab-c8f4-4fda-99a3-37e0b8bc2d55
 
 ## References
-- [mitre](https://cwe.mitre.org/data/definitions/639.html
+- [mitre](https://cwe.mitre.org/data/definitions/639.html)
