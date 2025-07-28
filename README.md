@@ -36,17 +36,3 @@ def render_home_page(self):
     return BASE_TEMPLATE.replace(b"{{body}}",content)
 ```
  
-## Impact
-Vary
-
-## Risk
-- Session Hijacking
-- Credential Theft
-
-## Redemption
-- Client input validation
-- Output encoding
-- Browser built-in XSS preveiton
-
-## ID
-cb251c97-067d-4f13-8195-4f918273f41b
